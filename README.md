@@ -1,7 +1,7 @@
 ![alt text](https://blog.radware.com/wp-content/uploads/2019/10/Confidence.jpg)
 
-<h1 align="center">Hi there 👋, I'm Oz Cohen</h1>
-<h4 align="center">Computer Science student at Ariel University (secound year)</h4>
+<h1>Hi 👋, I'm Oz Cohen</h1>
+<h4>Computer Science student at Ariel University (secound year)</h4>
 
 
 - 🌱 I’m currently learning Java, Python, C, SQL and C++ langauges
